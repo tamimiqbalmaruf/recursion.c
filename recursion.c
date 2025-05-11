@@ -14,7 +14,7 @@ void gello()
 void hello()
 {
     printf("hello\n");
-    mello();
+    gello();
 }
 
 
