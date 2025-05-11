@@ -9,7 +9,7 @@ void printN(int i)
     }
 
     printN(i + 1);
-    
+
     printf("%d\n", i);
 }
 
